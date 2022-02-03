@@ -1,0 +1,21 @@
+.Header {
+    position: sticky;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 10vh;
+    width: 100%;
+    margin: 0;
+}
+
+.rightHeader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.rightHeader h2 {
+    font-size: small;
+    margin: 0 2%;
+}

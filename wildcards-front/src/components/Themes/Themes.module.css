@@ -1,0 +1,12 @@
+.Themes {
+    display: flex;
+    flex-direction: column;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.themeBtn {
+    width: 60%;
+    margin:3vh auto;
+}

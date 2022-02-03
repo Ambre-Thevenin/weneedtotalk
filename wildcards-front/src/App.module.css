@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fdf6f2;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+  overflow-y: overlay;
+  width: 100vw;
+}
+
+button {
+  background-color: #f5a977;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 3px 1px -2px #00000033, 0 2px 2px 0 #00000024, 0 1px 5px 0 #0000001f;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  height: 6vh;
+  margin: 3vw;
+  padding: 10px;
+}
