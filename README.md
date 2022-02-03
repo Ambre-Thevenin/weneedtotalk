@@ -4,9 +4,9 @@ To give you some context, this project has been created in 48h at the end of the
 
 Project Wireframes can be found here : https://www.figma.com/file/XEFUp4KX7Zc1zDctDFXa7W/Untitled?node-id=0%3A1
 
-Following user stories have been taken into account : 
-### User Stories
 
+### User Stories
+Following user stories have been taken into account : 
 - As a user, I want to be able to play this game on my mobile device
 - As a user, I want to be able to have random cards associated with the choosen theme everytime I play
 - As a user, I want to be able to have a lifelike feeling of shuffling through cards
